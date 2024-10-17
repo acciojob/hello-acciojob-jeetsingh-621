@@ -1,11 +1,12 @@
-
-.accio{
-	width : 150px
-	height : 150px;
-	background-color :#000000;
+.accio {
+    width: 150px;
+    height: 150px;
+    background-color: #000000; /* Black background */
 }
-.hello-accio{
-	color: white;
-	margin-left: 62px ;
-	padding:10px;
+
+/* Styling the paragraph element */
+.hello-accio {
+    color: #ffffff; /* White text */
+    margin-left: 32px;
+    padding: 10px; /* Padding on all sides */
 }
